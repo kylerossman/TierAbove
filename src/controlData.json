@@ -1,0 +1,64 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Tom Brady",
+      "team": "Tampa Bay Buccaneers",
+      "position": "Quarterback"
+    },
+    {
+      "id": 2,
+      "name": "Aaron Rodgers",
+      "team": "Green Bay Packers",
+      "position": "Quarterback"
+    },
+    {
+      "id": 3,
+      "name": "Derrick Henry",
+      "team": "Tennessee Titans",
+      "position": "Running Back"
+    },
+    {
+      "id": 4,
+      "name": "Travis Kelce",
+      "team": "Kansas City Chiefs",
+      "position": "Tight End"
+    },
+    {
+      "id": 5,
+      "name": "DeAndre Hopkins",
+      "team": "Arizona Cardinals",
+      "position": "Wide Receiver"
+    },
+    {
+      "id": 6,
+      "name": "T.J. Watt",
+      "team": "Pittsburgh Steelers",
+      "position": "Linebacker"
+    },
+    {
+      "id": 7,
+      "name": "Aaron Donald",
+      "team": "Los Angeles Rams",
+      "position": "Defensive Tackle"
+    },
+    {
+      "id": 8,
+      "name": "Jalen Ramsey",
+      "team": "Los Angeles Rams",
+      "position": "Cornerback"
+    },
+    {
+      "id": 9,
+      "name": "Quenton Nelson",
+      "team": "Indianapolis Colts",
+      "position": "Guard"
+    },
+    {
+      "id": 10,
+      "name": "Nick Bosa",
+      "team": "San Francisco 49ers",
+      "position": "Defensive End"
+    }
+  ]
+}
