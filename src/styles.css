@@ -68,7 +68,7 @@ body {
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 334px;
 }
 
 .board-row:after {
@@ -87,4 +87,23 @@ body {
 
 .game-info {
   margin-left: 20px;
+}
+
+.playerRow {
+  background-color: #f2f2f2; /* Light gray background */
+}
+
+.playerRow:hover {
+  background-color: #e0e0e0; /* Darker gray background on hover */
+}
+
+.playerTable {
+  margin: auto; /* Center the table horizontally */
+  border-collapse: collapse; /* Collapse border spacing */
+}
+
+.playerTable th,
+.playerTable td {
+  border: 2px solid #a0d8ff; /* Thick border with baby blue color */
+  padding: 8px; /* Add padding for better spacing */
 }
